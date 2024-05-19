@@ -1,0 +1,11 @@
+{
+  "language": "typescript",
+  "app": "npx vite-node src/main.stack.ts",
+  "projectId": "7bac2a5f-d489-4c36-90d2-a836005cf8d6",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "context": {
+
+  }
+}
